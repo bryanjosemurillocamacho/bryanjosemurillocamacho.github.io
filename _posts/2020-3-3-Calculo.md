@@ -6,7 +6,7 @@ title: ¿Por que es importante la IS?!
 <tagg style="
     font-size: 12px;
     border-style: outset;
-">#Calculo-Diferencial</tagg> Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+">#Introduccion-A-La-IS</tagg> Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
