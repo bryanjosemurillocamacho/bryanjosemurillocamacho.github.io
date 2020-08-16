@@ -3,7 +3,10 @@ layout: post
 title: ¿Por que es importante la IS?!
 ---
 
-<tagg>#Introduccion-A-La-IS</tagg> Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+<tagg style="
+    font-size: 12px;
+    border-style: outset;
+">#Introduccion-A-La-IS</tagg> Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
