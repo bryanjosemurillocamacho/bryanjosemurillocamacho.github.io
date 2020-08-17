@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ¿Por que es importante la IS?!
+title: La Ingeniería de Software!
 ---
 
 <tagg style="
@@ -8,6 +8,5 @@ title: ¿Por que es importante la IS?!
     border-style: outset;
 ">#Introduccion-A-La-IS</tagg> Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+### La Ingeniería de Software
+La Ingeniería de Software La economía de todos los países desarrollados es dependiente del software Actualmente cada vez más sistemas son controlados por software. La Ingeniería de Software concierne a teorías, métodos y herramientas para el desarrollo profesional de software El gasto en la Ingeniería de Software representa un alto porcentaje del PIB de los países desarrollados
