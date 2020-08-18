@@ -7,7 +7,7 @@ permalink: /autor/
 ### Reseña
 
 <img style="border-radius: 20px;width: 200px;float: right;" alt="" src="https://avatars3.githubusercontent.com/u/57508925?s=400&amp;u=2cf623607f84b8d11b03f77140aee3db136731dc&amp;v=4">
-Hola, mi nombre completo es Bryan José Murillo Camacho, tengo 19 años, vivo en la ciudad de Guayaquil, Ecuador y sigo mis estudios en la Universidad De Guayaquil en la Carrera de Software, mido 170 cm de estatura, y me gusta aprender cosas nuevas.
+Hola, mi nombre completo es Bryan José Murillo Camacho, tengo 20 años, vivo en la ciudad de Guayaquil, Ecuador y sigo mis estudios en la Universidad De Guayaquil en la Carrera de Software, mido 170 cm de estatura, y me gusta aprender cosas nuevas.
 
 Formacion Academica:
 
